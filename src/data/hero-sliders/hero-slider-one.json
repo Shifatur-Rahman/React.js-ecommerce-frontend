@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Products",
+    "subtitle": "Winter Offer 2020 Collection",
+    "image": "/assets/img/Slider-Image/01.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Smart Products",
+    "subtitle": "Summer Offer 2020 Collection",
+    "image": "/assets/img/Slider-Image/03.jpg",
+    "url": "/shop-grid-standard"
+  }
+]
