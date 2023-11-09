@@ -1539,7 +1539,7 @@
     "new": false,
     "rating": 5,
     "saleCount": 19,
-    "category": ["Office Furniture"],
+    "category": ["Industrial Furniture"],
     "tag": ["Rack"],
     "stock": 30,
     "image": [
@@ -1561,7 +1561,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 30,
-    "category": ["Office Furniture"],
+    "category": ["Industrial Furniture"],
     "tag": ["Rack"],
     "stock": 10,
     "image": [
@@ -1583,7 +1583,7 @@
     "new": false,
     "rating": 5,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["Industrial Furniture"],
     "tag": ["Rack"],
     "stock": 30,
     "image": [
@@ -3327,7 +3327,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office furniture"],
+    "category": ["Office Furniture"],
     "tag": ["Fixed Chair"],
     "stock": 40,
     "image": [
@@ -3349,7 +3349,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office furniture"],
+    "category": ["Office Furniture"],
     "tag": ["Fixed Chair"],
     "stock": 60,
     "image": [
