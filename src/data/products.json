@@ -3767,7 +3767,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Class Room Chair"],
     "stock": 60,
     "image": [
@@ -3789,7 +3789,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Class Room Chair"],
     "stock": 60,
     "image": [
@@ -3811,7 +3811,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Class Room Chair"],
     "stock": 60,
     "image": [
@@ -3833,7 +3833,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Class Room Chair"],
     "stock": 60,
     "image": [
@@ -3855,7 +3855,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Class Room Chair"],
     "stock": 60,
     "image": [
@@ -3877,7 +3877,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Class Room Table"],
     "stock": 60,
     "image": [
@@ -3899,7 +3899,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Class Room Table"],
     "stock": 60,
     "image": [
@@ -3921,11 +3921,11 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Teacher's Table"],
     "stock": 60,
     "image": [
-      "/assets/img/chair/68.jpg",
+      "/assets/img/chair/68.png",
       "/assets/img/product/christmas/1.jpg",
       "/assets/img/product/christmas/2.jpg",
       "/assets/img/product/christmas/3.jpg",
@@ -3943,7 +3943,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Teacher's Table"],
     "stock": 60,
     "image": [
@@ -3965,7 +3965,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Podium"],
     "stock": 60,
     "image": [
@@ -3987,7 +3987,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["Podium"],
     "stock": 60,
     "image": [
@@ -4009,7 +4009,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["File Cabinet"],
     "stock": 60,
     "image": [
@@ -4031,7 +4031,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["File Cabinet"],
     "stock": 60,
     "image": [
@@ -4053,7 +4053,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Office Furniture"],
+    "category": ["School Furniture"],
     "tag": ["File Cabinet"],
     "stock": 60,
     "image": [
