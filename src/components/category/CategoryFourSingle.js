@@ -17,16 +17,15 @@ const CategoryFourSingle = ({ data, sliderClass }) => {
         </h4>
         <Link
           to={process.env.PUBLIC_URL + data.link}
-          className="collection-btn"
-        >
+          className="collection-btn">
           SHOP NOW
         </Link>
       </div>
     </div>
   );
 };
-
-CategoryFourSingle.propTypes = {
+                                                                          
+CategoryFourSingle.propTypes = {     
   data: PropTypes.object,
   sliderClass: PropTypes.string
 };

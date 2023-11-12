@@ -399,7 +399,6 @@ const App = (props) => {
                   path={process.env.PUBLIC_URL + "/login-register"}
                   component={LoginRegister}
                 />
-
                 <Route
                   path={process.env.PUBLIC_URL + "/cart"}
                   component={Cart}

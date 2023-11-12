@@ -245,13 +245,16 @@
 .product-wrap,
 .product-list-image-wrap {
   position: relative;
-  background-color: #dfe6e9;
+  // background-color: #dfe6e9;
+  // border: 1px solid red;
   .product-img {
     position: relative;
     overflow: hidden;
     img {
       width: 100%;
       padding: 5px;
+      border: 1px solid #8c7ae6;
+      border-radius: 5px 5px 0 0;
     }
 
     &-badges {

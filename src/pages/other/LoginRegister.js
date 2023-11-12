@@ -14,7 +14,7 @@ const LoginRegister = ({ location }) => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Flone | Login</title>
+        <title>Talukder | Login</title>
         <meta
           name="description"
           content="Compare page of flone react minimalist eCommerce template."
@@ -27,15 +27,15 @@ const LoginRegister = ({ location }) => {
       <LayoutOne headerTop="visible">
         {/* breadcrumb */}
         <Breadcrumb />
-        <div className="login-register-area pt-100 pb-100">
+        <div className="login-register-area pt-100 pb-100"> 
           <div className="container">
             <div className="row">
               <div className="col-lg-7 col-md-12 ml-auto mr-auto">
                 <div className="login-register-wrapper">
-                  <Tab.Container defaultActiveKey="login">
-                    <Nav variant="pills" className="login-register-tab-list">
+                  <Tab.Container defaultActiveKey="login"> 
+                    <Nav variant="pills" className="login-register-tab-list"> 
                       <Nav.Item>
-                        <Nav.Link eventKey="login">
+                        <Nav.Link eventKey="login"> 
                           <h4>Login</h4>
                         </Nav.Link>
                       </Nav.Item>

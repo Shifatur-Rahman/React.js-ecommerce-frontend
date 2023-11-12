@@ -16,7 +16,6 @@ const CategoryOneSingle = ({ data, sliderClass }) => {
           <Link to={process.env.PUBLIC_URL + data.link}>{data.title}</Link>
         </h4>
       </div>
-
     </div>
   );
 };
