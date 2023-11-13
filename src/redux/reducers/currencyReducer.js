@@ -10,7 +10,7 @@ const currencyReducer = (state = initState, action) => {
   if (action.type === SET_CURRENCY) {
     const currencyName = action.payload.currencyName;
 
-    if (currencyName === "USD") {
+    if (currencyName === "USD"){
       return {
         ...state,
         currencySymbol: "$",
@@ -18,6 +18,7 @@ const currencyReducer = (state = initState, action) => {
         currencyName
       };
     }
+
     if (currencyName === "EUR") {
       return {
         ...state,
@@ -26,6 +27,7 @@ const currencyReducer = (state = initState, action) => {
         currencyName
       };
     }
+    
     if (currencyName === "GBP") {
       return {
         ...state,
