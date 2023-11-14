@@ -14,7 +14,7 @@ const HomeBlackFriday = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Flone | Black friday Home</title>
+        <title>Talukder</title>
         <meta
           name="description"
           content="Black friday home of flone react minimalist eCommerce template."
