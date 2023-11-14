@@ -431,7 +431,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
                 <Link to={process.env.PUBLIC_URL + "/checkout"}>
                   {strings["checkout"]}
                 </Link>
-              </li>
+              </li> 
               <li>
                 <Link to={process.env.PUBLIC_URL + "/wishlist"}>
                   {strings["wishlist"]}
